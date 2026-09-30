@@ -1,0 +1,9 @@
+{
+  "name": "nlams-demo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "seed": "python backend/seed/seed_database.py",
+    "start": "node backend/server.js"
+  }
+}
